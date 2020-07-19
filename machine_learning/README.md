@@ -1,4 +1,4 @@
-# [Data Science & Machine Learning Guide]
+# Intro to the Foundations of Deep Learning
 
 ### Summary
 My goal is to make deep learning accessible and empower you to solve real-world problems with it. You don't need a Ph.D. to benefit from deep learning, nor do you need to be a mathematical wizard to grasp it. You do need this: an open mind, a passion for learning, and a desire to understand the world around you.  
