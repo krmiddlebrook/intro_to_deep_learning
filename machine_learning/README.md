@@ -8,7 +8,7 @@ I teach the course in a *top-down learning* fashion. Each lesson contains some n
 *Course outline:*
 We start our journey by learning linear regression - a fundamental algorithm in machine learning. Next, we reframe linear regression as a special case of a deep learning network called a single-layer linear neural network. Here, we walk through building neural networks from scratch and show how to train and evaluate them. Later, we introduce logistic regression - an extension of linear regression - to solve classification problems. We then explore deep neural networks and see that they can achieve impressive results on classification tasks such as handwritten digit recognition. Armed with your newfound understanding, you will be able to build deep neural networks and apply them to solve various regression and classification problems. And you can leverage your strong deep learning foundation to learn advanced methods!
 
-Some of the data science tool we will work with include: [Pandas](../basics/Basic_Pandas_Functions_for_Data_Science.ipynb) (for transforming and tidying data), [Matplotlib's Pyplot](../basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](../basics/Basics_Sklearn.ipynb) and
+Some of the data science tool we will work with include: [Pandas](../basics/Basic_Pandas_Functions_for_Data_Science.ipynb) and [NumPy](../basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](../basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](../basics/Basics_Sklearn.ipynb) and
 [Tensorflow](https://www.tensorflow.org/) (for building and training machine learning models).
 
 
@@ -17,7 +17,7 @@ Some of the data science tool we will work with include: [Pandas](../basics/Basi
 ## Lesson 0: Introduction to Deep Learning Concepts
 **Learning Objective:** learn at the highest level the fundamental terminology and concepts behind deep learning.
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI)
-- [Terminology and Concepts Introduction]((https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb))
+- [Terminology and Concepts Introduction](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
 
 
 ## Lesson 1: Linear Regression
