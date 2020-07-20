@@ -8,7 +8,7 @@ I teach the course in a *top-down learning* fashion. Each lesson contains some n
 *Course outline:*
 We start our journey by learning linear regression - a fundamental algorithm in machine learning. Next, we reframe linear regression as a special case of a deep learning network called a single-layer linear neural network. Here, we walk through building neural networks from scratch and show how to train and evaluate them. Later, we introduce logistic regression - an extension of linear regression - to solve classification problems. We then explore deep neural networks and see that they can achieve impressive results on classification tasks such as handwritten digit recognition. Armed with your newfound understanding, you will be able to build deep neural networks and apply them to solve various regression and classification problems. And you can leverage your strong deep learning foundation to learn advanced methods!
 
-Some of the data science tool we will work with include: [Pandas](../basics/Basic_Pandas_Functions_for_Data_Science.ipynb) and [NumPy](../basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](../basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](../basics/Basics_Sklearn.ipynb) and
+Some of the data science tool we will work with include: [Pandas](../basics/Basics_Pandas.ipynb) and [NumPy](../basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot example 1](../basics/Basic_Matplotlib_Pyplot.ipynb) and [Matplotlib's Pyplot example 2](../basics/Basics_Graphing.ipynb) (for visualizing data), and [Sklearn](../basics/Basics_Sklearn.ipynb) and
 [Tensorflow](https://www.tensorflow.org/) (for building and training machine learning models).
 
 
@@ -23,10 +23,10 @@ Some of the data science tool we will work with include: [Pandas](../basics/Basi
 ## Lesson 1: Linear Regression
 **Learning Objective:** understand how to build, train, and evaluate single-layer linear neural networks to solve single-variable and multiple-variable regression problems.
 - [Single-variable Linear Regression](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/examples/simple-linear-regression.ipynb)
-  - *Pre-lesson:* [Linear Regression Video from Crash Course (~13 min)](https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=13s)
-  - *Other resources:* [Pandas Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basic_Pandas_Functions_for_Data_Science.ipynb), [Sklearn Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basics_Sklearn.ipynb), [Matplotlib Pyplot Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basic_Matplotlib_Pyplot.ipynb), [NumPy Basics](../basics/Basics_NumPy.ipynb)
+  - *Pre-lesson:* [Video: Crash Course - Linear Regression (~13 min)](https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=13s)
+  - *Other resources:* [Pandas Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basics_Pandas.ipynb), [Sklearn Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basics_Sklearn.ipynb), [Matplotlib Pyplot Basics](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/basics/Basic_Matplotlib_Pyplot.ipynb), [NumPy Basics](../basics/Basics_NumPy.ipynb)
   - *Challenges:*
-    - [Single-variable Linear Regression with Pokemon data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/simple-linear-regression.ipynb)
+    - [Single-variable Linear Regression with Pokemon data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/simple_linear_regression_challenge_1.ipynb)
 
 - [Cleaning and Preparing Data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/Cleaning_Data.ipynb)
     - *Challenges:*
@@ -80,8 +80,9 @@ Some of the data science tool we will work with include: [Pandas](../basics/Basi
 
 ### Other resources
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI), [Notebook: Intro to Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
-- [Pandas Basics](../basics/Basic_Pandas_Functions_for_Data_Science.ipynb)
+- [Pandas Basics](../basics/Basics_Pandas.ipynb)
 - [Matplotlib Pyplot Basics](../basics/Basic_Matplotlib_Pyplot.ipynb)
+- [Graphing Basics](../basics/Basics_Graphing.ipynb)
 - [Sklearn Basics](../basics/Basics_Sklearn.ipynb)
 - [NumPy Basics](../basics/Basics_NumPy.ipynb)
 - [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
