@@ -19,7 +19,7 @@ Some of the data science tool we will work with include: [Pandas](../basics/Basi
 **Learning Objective:** learn at the highest level the fundamental terminology and concepts behind deep learning.
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI)
 - [Terminology and Concepts Introduction](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
-
+- [Gradio MNIST](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
 
 ## Lesson 1: Linear Regression
 **Learning Objective:** understand how to build, train, and evaluate single-layer linear neural networks to solve single-variable and multiple-variable regression problems.
