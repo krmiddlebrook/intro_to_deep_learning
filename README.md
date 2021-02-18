@@ -1,6 +1,6 @@
 # Intro to the Foundations of Deep Learning
 
-![Cat Dog Deep Learning](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/images/cat-dog-ml-gif.gif)
+![Cat Dog Deep Learning](./images/cat-dog-ml-gif.gif)
 
 ### Summary
 
@@ -11,8 +11,7 @@ I teach the course in a _top-down learning_ fashion. Each lesson contains some n
 _Course outline:_
 We start our journey by learning linear regression - a fundamental algorithm in machine learning. Next, we reframe linear regression as a special case of a deep learning network called a single-layer linear neural network. Here, we walk through building neural networks from scratch and show how to train and evaluate them. Later, we introduce logistic regression - an extension of linear regression - to solve classification problems. We then explore deep neural networks and see that they can achieve impressive results on classification tasks such as handwritten digit recognition. Armed with your newfound understanding, you will be able to build deep neural networks and apply them to solve various regression and classification problems. And you can leverage your strong deep learning foundation to learn advanced methods!
 
-Some of the data science tool we will work with include: [Pandas](./basics/Basics_Pandas.ipynb) and [NumPy](./basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](./basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](./basics/Basics_Sklearn.ipynb) and
-[Tensorflow](https://www.tensorflow.org/) (for building and training machine learning models).
+Some of the data science tool we will work with include: [Pandas](./basics/Basics_Pandas.ipynb) and [NumPy](./basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](./basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) (for building and training machine learning models).
 
 **Always Open in Colab** - many of the lessons contain images that do not show on Github. Always click the button to 'Open in Colab' when viewing a notebook to get the best learning experience.
 
