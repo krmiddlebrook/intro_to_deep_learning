@@ -11,7 +11,7 @@ I teach the course in a _top-down learning_ fashion. Each lesson contains some n
 _Course outline:_
 We start our journey by learning linear regression - a fundamental algorithm in machine learning. Next, we reframe linear regression as a special case of a deep learning network called a single-layer linear neural network. Here, we walk through building neural networks from scratch and show how to train and evaluate them. Later, we introduce logistic regression - an extension of linear regression - to solve classification problems. We then explore deep neural networks and see that they can achieve impressive results on classification tasks such as handwritten digit recognition. Armed with your newfound understanding, you will be able to build deep neural networks and apply them to solve various regression and classification problems. And you can leverage your strong deep learning foundation to learn advanced methods!
 
-Some of the data science tool we will work with include: [Pandas](../basics/Basics_Pandas.ipynb) and [NumPy](../basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](../basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](../basics/Basics_Sklearn.ipynb) and
+Some of the data science tool we will work with include: [Pandas](./basics/Basics_Pandas.ipynb) and [NumPy](./basics/Basics_NumPy.ipynb) (for manipulating data), [Matplotlib's Pyplot](./basics/Basic_Matplotlib_Pyplot.ipynb) (for visualizing data), and [Sklearn](./basics/Basics_Sklearn.ipynb) and
 [Tensorflow](https://www.tensorflow.org/) (for building and training machine learning models).
 
 **Always Open in Colab** - many of the lessons contain images that do not show on Github. Always click the button to 'Open in Colab' when viewing a notebook to get the best learning experience.
@@ -21,19 +21,19 @@ Some of the data science tool we will work with include: [Pandas](../basics/Basi
 **Learning Objective:** learn at the highest level the fundamental terminology and concepts behind deep learning.
 
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI)
-- [Terminology and Concepts Introduction](./lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
+- [Terminology and Concepts Introduction](./machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
 - [Gradio MNIST](./lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
 
 ## Lesson 1: Linear Regression
 
-**Learning Objective:** understand how to build, train, and evaluate single-layer linear neural networks to solve single-variable and multiple-variable regression problems.
+**Learning Objective:** Understand how to build, train, and evaluate single-layer linear neural networks to solve regression problems.
 
-- [Single-variable Linear Regression](./lesson%201%20-%20linear%20regression/examples/From_Linear_Regression_to_Deep_Learning.ipynb)
+- [Single-variable Linear Regression](./machine_learning/lesson%201%20-%20linear%20regression/examples/From_Linear_Regression_to_Deep_Learning.ipynb)
 
   - _Pre-lesson:_ [Video: Crash Course - Linear Regression (~13 min)](https://www.youtube.com/watch?v=WWqE7YHR4Jc&t=13s)
-  - _Other resources:_ [Pandas Basics](../basics/Basics_Pandas.ipynb), [Sklearn Basics](../basics/Basics_Sklearn.ipynb), [Matplotlib Pyplot Basics](../basics/Basic_Matplotlib_Pyplot.ipynb), [NumPy Basics](../basics/Basics_NumPy.ipynb)
+  - _Other resources:_ [Pandas Basics](./basics/Basics_Pandas.ipynb), [Sklearn Basics](./basics/Basics_Sklearn.ipynb), [Matplotlib Pyplot Basics](./basics/Basic_Matplotlib_Pyplot.ipynb), [NumPy Basics](./basics/Basics_NumPy.ipynb)
   - _Challenges:_
-    - [Predict you school's comedy show attendance (First challenge from the Single-variable Linear Regression Colab lesson)](./lesson%201%20-%20linear%20regression/examples/From_Linear_Regression_to_Deep_Learning.ipynb)
+    - [Predict you school's comedy show attendance (First challenge from the Single-variable Linear Regression Colab lesson)](./machine_learning/lesson%201%20-%20linear%20regression/examples/From_Linear_Regression_to_Deep_Learning.ipynb)
 
 - [Cleaning and Preparing Data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/Cleaning_Data.ipynb)
 
