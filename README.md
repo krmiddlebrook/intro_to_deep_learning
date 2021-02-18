@@ -22,7 +22,7 @@ Some of the data science tool we will work with include: [Pandas](./basics/Basic
 
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI)
 - [Terminology and Concepts Introduction](./machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
-- [Gradio MNIST](./lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
+- [Gradio MNIST](./machine_learning/lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
 
 ## Lesson 1: Linear Regression
 
@@ -35,58 +35,58 @@ Some of the data science tool we will work with include: [Pandas](./basics/Basic
   - _Challenges:_
     - [Predict you school's comedy show attendance (First challenge from the Single-variable Linear Regression Colab lesson)](./machine_learning/lesson%201%20-%20linear%20regression/examples/From_Linear_Regression_to_Deep_Learning.ipynb)
 
-- [Cleaning and Preparing Data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/Cleaning_Data.ipynb)
+- [Cleaning and Preparing Data](./machine_learning/mini_lessons/Cleaning_Data.ipynb)
 
   - _Challenges:_
-    - [Cleaning and Preparing your own dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/cleaning_and_preparing_your_own_dataset.ipynb)
-    - [Single-variable Linear Regression with student's dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/simple-linear-regression-2.ipynb)
+    - [Cleaning and Preparing your own dataset](./machine_learning/mini_lessons/cleaning_and_preparing_your_own_dataset.ipynb)
+    - [Single-variable Linear Regression with student's dataset](./machine_learning/lesson%201%20-%20linear%20regression/challenges/simple-linear-regression-2.ipynb)
 
-- [Single-variable Linear Regression as Neural Networks, a Deep Learning Perspective](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/examples/linear-regression-deep-dive.ipynb)
+- [Single-variable Linear Regression as Neural Networks, a Deep Learning Perspective](./machine_learning/lesson%201%20-%20linear%20regression/examples/linear-regression-deep-dive.ipynb)
 
   - _Challenges:_
-    - [Revisiting Single-variable Linear Regression with Pokemon](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/revisting-simple-linear-regression-pokemon.ipynb)
-    - [Revisiting Single-variable Linear Regression with Student's dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/simple-linear-regression-2-revisited.ipynb)
+    - [Revisiting Single-variable Linear Regression with Pokemon](./machine_learning/lesson%201%20-%20linear%20regression/challenges/revisting-simple-linear-regression-pokemon.ipynb)
+    - [Revisiting Single-variable Linear Regression with Student's dataset](./machine_learning/lesson%201%20-%20linear%20regression/challenges/simple-linear-regression-2-revisited.ipynb)
 
-- [Multiple Linear Regression](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/examples/multiple-linear-regression.ipynb)
+- [Multiple Linear Regression](./machine_learning/lesson%201%20-%20linear%20regression/examples/multiple-linear-regression.ipynb)
   - _Challenges:_
-    - [Multiple Linear Regression with Pokemon data](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/multiple-linear-regression-pokemon.ipynb)
-    - [Multiple Linear Regression with student's dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%201%20-%20linear%20regression/challenges/multiple-linear-regression-2.ipynb)
+    - [Multiple Linear Regression with Pokemon data](./machine_learning/lesson%201%20-%20linear%20regression/challenges/multiple-linear-regression-pokemon.ipynb)
+    - [Multiple Linear Regression with student's dataset](./machine_learning/lesson%201%20-%20linear%20regression/challenges/multiple-linear-regression-2.ipynb)
 
 ## Lesson 2: Classification with Logistic and Softmax Regression
 
 **Learning Objective:** understand how to build, train, and evaluate single-layer linear neural networks to solve binary and multi-class classification problems.
 
-- [Logistic Regression Classifier](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/logistic-regression.ipynb)
+- [Logistic Regression Classifier](./machine_learning/lesson%202%20-%20logistic%20regression/logistic-regression.ipynb)
 
   - _Pre-lesson:_ [Video: Logistic Regression (~9 min)](https://www.youtube.com/watch?v=yIYKR4sgzI8)
   - _Other resources:_ [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
   - _Challenges:_
-    - [Logistic Regression with Pokemon](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/challenges/logistic-regression-pokemon.ipynb)
-    - [Logistic Regression with student's dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/challenges/logistic-regression-2.ipynb)
+    - [Logistic Regression with Pokemon](./machine_learning/lesson%202%20-%20logistic%20regression/challenges/logistic-regression-pokemon.ipynb)
+    - [Logistic Regression with student's dataset](./machine_learning/lesson%202%20-%20logistic%20regression/challenges/logistic-regression-2.ipynb)
 
-- [Softmax Regression Classifier](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/softmax-regression.ipynb)
+- [Softmax Regression Classifier](./machine_learning/lesson%202%20-%20logistic%20regression/softmax-regression.ipynb)
 
   - _Challenges:_
-    - [Softmax Regression with Pokemon](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/challenges/softmax-regression-pokemon.ipynb)
+    - [Softmax Regression with Pokemon](./machine_learning/lesson%202%20-%20logistic%20regression/challenges/softmax-regression-pokemon.ipynb)
 
-- [How to prepare image data for neural networks](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/image_data.ipynb)
+- [How to prepare image data for neural networks](./machine_learning/mini_lessons/image_data.ipynb)
   - _Challenges:_
-    - [Softmax regression with student's dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%202%20-%20logistic%20regression/challenges/softmax-regression-2.ipynb)
+    - [Softmax regression with student's dataset](./machine_learning/lesson%202%20-%20logistic%20regression/challenges/softmax-regression-2.ipynb)
 
 ## Lesson 3: Image Classification with Deep Neural Networks
 
 **Learning Objective:** understand how to build, train, and evaluate deep linear neural networks to solve regression and classification problems.
 
-- [Introduction to Deep Linear Neural Networks](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%203%20-%20Neural%20Networks/intro-to-neural-networks.ipynb)
+- [Introduction to Deep Linear Neural Networks](./machine_learning/lesson%203%20-%20Neural%20Networks/intro-to-neural-networks.ipynb)
 
   - _Pre-lesson:_ [Video: 3blue1Brown - But What is a Neural Network? (~19 min)](https://www.youtube.com/watch?v=aircAruvnKk)
   - _Other resources:_ [Blog post: Jay Alammar - A visual guide to the basics of Neural Networks (level: intermediate)](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/), [Blog post: Jay Alammar - A visual guide to the math behind the basics of Neural Networks (level: intermediate)](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
   - _Challenges:_
-    - [Feed Forward Neural Network with Fashion-MNIST](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%203%20-%20Neural%20Networks/challenges/neural_networks_1.ipynb)
+    - [Feed Forward Neural Network with Fashion-MNIST](./machine_learning/lesson%203%20-%20Neural%20Networks/challenges/neural_networks_1.ipynb)
 
-- [Using external image datasets in Colab](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/mini_lessons/external-datasets-in-colab.ipynb)
+- [Using external image datasets in Colab](./machine_learning/mini_lessons/external-datasets-in-colab.ipynb)
   - _Challenges:_
-    - [Neural Network with your own image dataset](https://github.com/krmiddlebrook/intro_to_deep_learning/blob/master/machine_learning/lesson%203%20-%20Neural%20Networks/challenges/neural_networks_own_data.ipynb)
+    - [Neural Network with your own image dataset](./machine_learning/lesson%203%20-%20Neural%20Networks/challenges/neural_networks_own_data.ipynb)
 
 ## Advanced Deep Learning Resources
 
