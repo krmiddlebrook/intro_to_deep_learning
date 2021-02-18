@@ -22,7 +22,7 @@ Some of the data science tool we will work with include: [Pandas](./basics/Basic
 
 - [Video: Intro to Google Colab (~5 min)](https://www.youtube.com/watch?v=inN8seMm7UI)
 - [Terminology and Concepts Introduction](./machine_learning/lesson%200%20-%20machine%20learning/Intro_to_Machine_Learning.ipynb)
-- [Gradio MNIST](../lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
+- [Gradio MNIST](./machine_learning/lesson%200%20-%20machine%20learning/Gradio_MNIST_Tutorial.ipynb)
 
 ## Lesson 1: Linear Regression
 
